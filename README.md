@@ -1,4 +1,4 @@
-# 13F-scraper
+# Institutional Holdings Programs
 
 Scraper Overview: </br>
 - Continually scrapes 13Fs from SEC Latest Filing website
